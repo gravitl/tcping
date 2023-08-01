@@ -1,0 +1,12 @@
+# github.com/cloverstd/tcping v0.1.1
+## explicit
+github.com/cloverstd/tcping/ping
+# github.com/inconshreveable/mousetrap v1.0.0
+## explicit
+github.com/inconshreveable/mousetrap
+# github.com/spf13/cobra v0.0.0-20150605180824-312092086bed
+## explicit
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.0
+## explicit
+github.com/spf13/pflag
