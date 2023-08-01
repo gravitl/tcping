@@ -1,0 +1,8 @@
+github.com/cloverstd/tcping v0.1.1 h1:3Yp9nvSDI7Z63zoVQDJzVk1PUczrF9tJoOrKGV30iOk=
+github.com/cloverstd/tcping v0.1.1/go.mod h1:NYXTrTDwlwuOKQ0vwksUVUbIr0sxDDsf1J6aFpScCBo=
+github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NHg9XEKhtSvM=
+github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
+github.com/spf13/cobra v0.0.0-20150605180824-312092086bed h1:aMrfJ3kreAPpue0oog9V/QejkkfSfOIAFj1Okp0QFqc=
+github.com/spf13/cobra v0.0.0-20150605180824-312092086bed/go.mod h1:1l0Ry5zgKvJasoi3XT1TypsSe7PqH0Sj9dhYf7v3XqQ=
+github.com/spf13/pflag v1.0.0 h1:oaPbdDe/x0UncahuwiPxW1GYJyilRAdsPnq3e1yaPcI=
+github.com/spf13/pflag v1.0.0/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
