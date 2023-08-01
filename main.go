@@ -117,17 +117,12 @@ var rootCmd = cobra.Command{
 			ping.UseCustomeDNS(dnsServer)
 		}
 
-		parseHost, _ := ping.FormatIP(host)
-		if len(parseHost) <= 0 {
-			parseHost = host
-		}
 		target := ping.Target{
 			Timeout:  timeoutDuration,
 			Interval: intervalDuration,
-			Host:     parseHost,
+			Host:     host,
 			Port:     port,
 			Counter:  counter,
-			Proxy:    proxy,
 			Protocol: protocol,
 		}
 		var pinger ping.Pinger
